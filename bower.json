@@ -1,0 +1,21 @@
+{
+  "name": "html",
+  "homepage": "https://github.com/RaphaMoura/MarmorariaNew",
+  "authors": [
+    "RaphaMoura <rapha_zero@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
